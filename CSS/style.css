@@ -12,3 +12,19 @@ body {
   align-items: center;
   background-color: hsl(30, 38%, 92%);
 }
+.container {
+  width: 800px;
+  height: 550px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+.container img {
+  width: 400px;
+  height: 549px;
+  border: none;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
